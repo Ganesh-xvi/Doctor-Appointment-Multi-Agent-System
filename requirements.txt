@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+langchain-groq
+langchain-ollama
+langchain-core
+langgraph
+langgraph-supervisor
+typing-extensions
+pydantic
+fastapi
+uvicorn
+streamlit
+requests
+- e.
